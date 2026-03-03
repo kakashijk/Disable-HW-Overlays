@@ -1,1 +1,1 @@
-global debug.sf.disable_hw_overlays 0
+global disable_hardware_overlays 0
