@@ -1,0 +1,7 @@
+id=Disable-HW-Overlays
+name=Disable HW Overlays
+description=A Setbox module to force GPU composition by disabling hardware overlays
+author=kakashijk
+version=v1.0.0
+versionCode=1
+repository=
