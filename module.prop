@@ -4,4 +4,4 @@ description=A Setbox module to force GPU composition by disabling hardware overl
 author=kakashijk
 version=v1.0.0
 versionCode=1
-repository=
+repository=https://github.com/kakashijk/Disable-HW-Overlays
